@@ -10,7 +10,7 @@ HTML болон CSS ашиглан бүртгэлийн форм хэрхэн б
 🔗 Live Preview: [https://2-1-3-registration-form.vercel.app/](https://2-1-3-registration-form.vercel.app/)
 
  Screenshot нэмэх бол дараах мөрийг ашиглана
-![Registration Form Screenshot](assets/form-screenshot.png)
+![Registration Form Screenshot](image2.png)
 
 
 ---
